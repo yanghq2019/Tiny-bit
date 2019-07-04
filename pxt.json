@@ -5,8 +5,8 @@
     "license": "MIT",
     "dependencies": {
         "core": "*",
-        "neopixel": "github:lzty634158/pxt-neopixel",
-        "Mbit_IR":  "github:lzty634158/yahboom_mbit_IR"
+        "neopixel": "github:yanghq2019/pxt-neopixel",
+        "Mbit_IR":  "github:yanghq2019/yahboom_mbit_IR"
 	
 
     },
